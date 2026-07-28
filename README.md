@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:4f46e5&height=200&section=header&text=Ricky%20Johannes%20Panjaitan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20Full%20Stack%20Developer%20%26%20IT%20Network&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:4f46e5&height=120&section=header" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=60&lines=Ricky+Johannes+Panjaitan)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Network+%26+Server+Administration;System+Design+%26+Enterprise+Architecture;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366f1&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+IT+Network;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
