@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:4f46e5&height=200&section=header&text=Ricky%20Johannes%20Panjaitan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Infrastructure&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:4f46e5&height=200&section=header&text=Ricky%20Johannes%20Panjaitan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IT%20%26%20Network&descAlignY=58&descSize=16&descColor=c7d2fe" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Laravel+%7C+React+%7C+Node.js+Developer;IT+Infrastructure+%26+DevOps+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Network+%26+Server+Administration;System+Design+%26+Enterprise+Architecture;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -103,8 +103,10 @@ $ricky = [
 
 ```
 Enterprise Web Systems     ████████████████████  100%
+Software Engineering       ███████████████████░   95%
 REST API & Integration     ████████████████░░░░   80%
 Database Architecture      ███████████████░░░░░   75%
+Network & Server Admin     █████████████░░░░░░░   65%
 DevOps & Linux Server      ████████████░░░░░░░░   60%
 Mobile (Flutter)           ████████░░░░░░░░░░░░   40%
 ```
