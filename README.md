@@ -19,7 +19,7 @@
 
 $ricky = [
     'name'       => 'Ricky Johannes Panjaitan',
-    'role'       => 'Full Stack Developer & IT Infrastructure',
+    'role'       => 'Software Engineer & IT Development',
     'company'    => 'PT. Dharma Polimetal Tbk',
     'website'    => 'https://codium.my.id',
     'focus'      => ['Web Development', 'System Integration', 'IT Helpdesk Solutions'],
