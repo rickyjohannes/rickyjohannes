@@ -86,8 +86,10 @@ $ricky = [
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickyjohannes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyjohannes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickyjohannes&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rickyjohannes&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rickyjohannes&theme=tokyonight" height="160em"/>
 
 </div>
 
