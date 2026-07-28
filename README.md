@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:4f46e5&height=120&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=60&lines=Ricky+Johannes+Panjaitan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&height=60&lines=Ricky+Johannes+Panjaitan)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366f1&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+IT+Network;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366f1&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer+%7C+Full+Stack+Dev;Laravel+%7C+React+%7C+Node.js+%7C+Flutter;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 ```php
 <?php
@@ -65,18 +65,29 @@ $ricky = [
 
 ## 🚀 Featured Projects
 
-<div align="center">
+🎫 **IT Helpdesk System**
+> Enterprise ticketing system with multi-level approval (DH → DIVH → IT), SLA monitoring, real-time dashboard & WhatsApp notifications
+> `Laravel` `MySQL` `Chart.js`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎫 **IT Helpdesk System** | Enterprise ticketing system with multi-level approval (DH → DIVH → IT), SLA monitoring, real-time dashboard & WhatsApp notifications | Laravel, MySQL, Chart.js |
-| 🚪 **Exit Clearance (VERA)** | Digital exit clearance management system with multi-department workflow and approval tracking | Laravel, Tailwind CSS |
-| 📊 **Dashboard Monitoring DN** | Real-time monitoring dashboard for delivery note tracking and analytics | Laravel, Chart.js |
-| 👥 **HRMS Form CR** | HR management system with change request workflow and multi-division approval | Laravel, MySQL |
-| 📦 **MediaBox** | Digital media asset management system for enterprise content organization | Laravel |
-| 🔐 **SSO System** | Single Sign-On authentication system with mobile app support (Flutter) | Node.js, React, Flutter |
+🚪 **Exit Clearance (VERA)**
+> Digital exit clearance management with multi-department workflow and approval tracking
+> `Laravel` `Tailwind CSS`
 
-</div>
+📊 **Dashboard Monitoring DN**
+> Real-time monitoring dashboard for delivery note tracking and analytics
+> `Laravel` `Chart.js`
+
+👥 **HRMS Form CR**
+> HR management system with change request workflow and multi-division approval
+> `Laravel` `MySQL`
+
+📦 **MediaBox**
+> Digital media asset management system for enterprise content organization
+> `Laravel`
+
+🔐 **SSO System**
+> Single Sign-On authentication with mobile app support
+> `Node.js` `React` `Flutter`
 
 ---
 
@@ -86,8 +97,8 @@ $ricky = [
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickyjohannes&theme=tokyonight" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rickyjohannes&theme=tokyonight" height="160em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rickyjohannes&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rickyjohannes&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rickyjohannes&theme=tokyonight" width="49%"/>
 
 </div>
 
@@ -101,15 +112,15 @@ $ricky = [
 
 ## 🏗️ What I Build
 
-```
-Enterprise Web Systems     ████████████████████  100%
-Software Engineering       ███████████████████░   95%
-REST API & Integration     ████████████████░░░░   80%
-Database Architecture      ███████████████░░░░░   75%
-Network & Server Admin     █████████████░░░░░░░   65%
-DevOps & Linux Server      ████████████░░░░░░░░   60%
-Mobile (Flutter)           ████████░░░░░░░░░░░░   40%
-```
+| Skill | Level |
+|-------|-------|
+| Enterprise Web Systems | ████████████████████ 100% |
+| Software Engineering | ███████████████████░ 95% |
+| REST API & Integration | ████████████████░░░░ 80% |
+| Database Architecture | ███████████████░░░░░ 75% |
+| Network & Server Admin | █████████████░░░░░░░ 65% |
+| DevOps & Linux Server | ████████████░░░░░░░░ 60% |
+| Mobile (Flutter) | ████████░░░░░░░░░░░░ 40% |
 
 ---
 
