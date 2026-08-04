@@ -16,9 +16,8 @@
 <?php
 
 $ricky = [
-    'name'       => 'Ricky Johannes Panjaitan',
+    'name'       => 'Ricky Johannes S.Tr.Kom',
     'role'       => 'Software Engineer & IT Development',
-    'company'    => 'PT. Dharma Polimetal Tbk',
     'website'    => 'https://codium.my.id',
     'focus'      => ['Web Development', 'System Integration', 'IT Helpdesk Solutions'],
     'currently'  => 'Building enterprise-grade IT management systems',
@@ -69,6 +68,10 @@ $ricky = [
 > Enterprise ticketing system with multi-level approval (DH → DIVH → IT), SLA monitoring, real-time dashboard & WhatsApp notifications
 > `Laravel` `MySQL` `Chart.js`
 
+👥 **HRMS Form CR**
+> HR management system with change request workflow and multi-division approval
+> `Laravel` `MySQL`
+
 🚪 **Exit Clearance (VERA)**
 > Digital exit clearance management with multi-department workflow and approval tracking
 > `Laravel` `Tailwind CSS`
@@ -77,16 +80,12 @@ $ricky = [
 > Real-time monitoring dashboard for delivery note tracking and analytics
 > `Laravel` `Chart.js`
 
-👥 **HRMS Form CR**
-> HR management system with change request workflow and multi-division approval
-> `Laravel` `MySQL`
-
 📦 **MediaBox**
 > Digital media asset management system for enterprise content organization
 > `Laravel`
 
 🔐 **SSO System**
-> Single Sign-On authentication with mobile app support
+> Single Sign-On authentication with mobile app support with TOTP and email verification 2 step.
 > `Node.js` `React` `Flutter`
 
 ---
