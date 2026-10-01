@@ -12,16 +12,18 @@
 
 ## 👨‍💻 About Me
 
+Software Engineer focused on building and operating **enterprise-grade internal systems** end to end — from database design and Laravel backends to deployment and Linux server administration. I design, develop, deploy, and self-host the applications that run a company's daily operations: IT & HR helpdesk, SSO, inventory, and monitoring.
+
 ```php
 <?php
 
 $ricky = [
-    'name'       => 'Ricky Johannes S.Tr.Kom',
-    'role'       => 'Software Engineer & IT Development',
-    'website'    => 'https://codium.my.id',
-    'focus'      => ['Enterprise Web Apps', 'System Integration', 'IT & HR Workflow Automation'],
-    'currently'  => 'Building & self-hosting enterprise-grade internal systems',
-    'fun_fact'   => 'My git commit messages tell better stories than my diary 📖',
+    'name'    => 'Ricky Johannes, S.Tr.Kom',
+    'role'    => 'Software Engineer · Full-Stack & IT Development',
+    'website' => 'https://codium.my.id',
+    'focus'   => ['Enterprise Web Apps', 'System Integration', 'Workflow Automation'],
+    'stack'   => ['Laravel', 'MySQL', 'Redis', 'Livewire', 'Tailwind', 'Linux'],
+    'approach'=> 'Ship reliable systems, own them end to end.',
 ];
 ```
 
@@ -136,15 +138,13 @@ A collection of enterprise-grade systems I built and maintain in production — 
 
 ## 🏗️ What I Build
 
-| Skill | Level |
-|-------|-------|
-| Enterprise Web Systems (Laravel) | ████████████████████ 100% |
-| Software Engineering | ███████████████████░ 95% |
-| REST API & System Integration | ████████████████░░░░ 80% |
-| Database Architecture (MySQL) | ███████████████░░░░░ 75% |
-| Self-Hosting & Linux Server | ██████████████░░░░░░ 70% |
-| Network & Server Admin | █████████████░░░░░░░ 65% |
-| DevOps (Nginx, Cloudflare, Supervisor) | ████████████░░░░░░░░ 60% |
+**Enterprise Web Applications** — Multi-role systems with approval workflows, audit trails, and reporting. Built on Laravel with Livewire, Tailwind, and MySQL.
+
+**System Integration** — REST APIs and automated data sync between internal apps and external systems (SAP, Sunfish HR), including SSO and 2FA.
+
+**Self-Hosted Infrastructure** — I run the full production stack myself: Nginx, PHP-FPM, MySQL, Redis, Supervisor queue workers, Cloudflare Tunnel, and Fail2Ban hardening on Linux.
+
+> From a single server I design, deploy, and maintain 10+ internal applications serving real business operations.
 
 ---
 
@@ -164,7 +164,7 @@ A collection of enterprise-grade systems I built and maintain in production — 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:2563eb&height=100&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, make it work. Then, make it reliable."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rickyjohannes&color=2563eb&style=flat-square&label=Profile+Views)
 
